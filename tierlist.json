@@ -1,0 +1,1033 @@
+{
+  "tiers": [
+    {
+      "tier": "UNOB",
+      "items": [
+        {
+          "name": "Gogeta",
+          "abbr": "GT",
+          "note": "Obtainable through the fusion dance item with another player (1%)",
+          "hasImage": true
+        },
+        {
+          "name": "Gogeta",
+          "abbr": "Super",
+          "note": "Obtainable through the fusion dance item with another player (99%)",
+          "hasImage": true
+        },
+        {
+          "name": "Soldier Boy",
+          "abbr": "Captain American Shiny",
+          "note": "Obtained by using Original Compound-VOne on Standless with a 1% chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Homelander",
+          "abbr": "Onmi-Man Shiny",
+          "note": "Standless + Compound V gives Homelander (10%), then Compound V1 on Homelander has a 30% chance to give shiny Omni-Man instead of Homelander V1.",
+          "hasImage": true
+        },
+        {
+          "name": "Billy Butcher",
+          "abbr": "Dexter Shiny",
+          "note": "Complete 20 Homelander raids, then talk to the Homelander NPC → Billy Butcher (10% chance for shiny Billy Butcher, Dexter).",
+          "hasImage": true
+        },
+        {
+          "name": "Uber Oni",
+          "abbr": "Public",
+          "note": "Big Hoss (50k) → Freshie. 20 kills + Pot Diary, talk to Big Hoss → Oni. 40 kills + Dio boss kill, talk to Big Hoss → Uber Oni challenge (no death, retry OK) → Sunaikinti’s Blessed → use on Oni.",
+          "hasImage": true
+        }
+      ]
+    },
+    {
+      "tier": "X",
+      "items": [
+        {
+          "name": "Sukuna",
+          "note": "Cursed Finger on Standless: 70% Hakari, 20% Gojo, 15% Yuta, 10% Sukuna.",
+          "hasImage": true
+        },
+        {
+          "name": "Yuta",
+          "note": "Cursed Finger on Standless: 70% Hakari, 20% Gojo, 15% Yuta, 10% Sukuna.",
+          "hasImage": true
+        },
+        {
+          "name": "Gojo",
+          "note": "Cursed Finger on Standless: 70% Hakari, 20% Gojo, 15% Yuta, 10% Sukuna.",
+          "hasImage": true
+        },
+        {
+          "name": "Hakari",
+          "note": "Cursed Finger on Standless: 70% Hakari, 20% Gojo, 15% Yuta, 10% Sukuna.",
+          "hasImage": true
+        },
+        {
+          "name": "Roaring Knight",
+          "note": "Standless + Black Shard (1% drop from Roaring Knight boss) → Roaring Knight",
+          "hasImage": true
+        },
+        {
+          "name": "Goku",
+          "abbr": "MAGETTE",
+          "note": "Obtained by using Hamon + Dragon Ball on Goku, then Goku + Dragon Ball again with a 1/143 chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Shadow Bonnie",
+          "note": "Creeper Queen (1% from Arrow, or 1/100 Shiny Arrow on Killer Queen) + Requiem Arrow → 1/3 chance for Bootleg Purple Guy (otherwise Charged Creeper Queen) + True Requiem Arrow → 1/5 chance for Bear 5 (otherwise back to normal Bootleg Purple Guy, retry) → Shadow Camera: 6.6% Shadow Bonnie, 93.4% Shadow Freddy instead.",
+          "hasImage": true
+        },
+        {
+          "name": "Kokushibo",
+          "hasImage": true
+        },
+        {
+          "name": "Akaza",
+          "hasImage": true
+        },
+        {
+          "name": "Tenna",
+          "note": "Standless + TV Time (5% drop from Tenna boss) → Tenna",
+          "hasImage": true
+        },
+        {
+          "name": "Bootleg Star Platinum Alternate Universe Over Heaven",
+          "note": "Star Platinum + DIO Diary has a 1% chance to give this instead of a normal Star Platinum Over Heaven.",
+          "hasImage": true
+        },
+        {
+          "name": "Merged Zamasu",
+          "note": "Get Spin from Gyro for 50k Lire, use Dragon Ball for a 10% chance at Zamasu, then Potara Earring (S) on Zamasu for Merged Zamasu.",
+          "hasImage": true
+        }
+      ]
+    },
+    {
+      "tier": "S",
+      "items": [
+        {
+          "name": "Donda Bear",
+          "note": "Black Guardian on Shadow Bear: 1/10 chance for Donda Bear.",
+          "hasImage": true
+        },
+        {
+          "name": "Shadow Freddy",
+          "note": "Creeper Queen (1% from Arrow, or 1/100 Shiny Arrow on Killer Queen) + Requiem Arrow → 1/3 chance for Bootleg Purple Guy (otherwise Charged Creeper Queen) + True Requiem Arrow → 1/5 chance for Bear 5 (otherwise back to normal Bootleg Purple Guy, retry) → Shadow Camera: 93.4% Shadow Freddy, 6.6% Shadow Bonnie instead.",
+          "hasImage": true
+        },
+        {
+          "name": "Vegito",
+          "note": "Get Vegeta (Dragon Ball on Vampire) or Goku (Dragon Ball on Hamon), then use Potara Earring on either — 50/50 chance to fuse into Vegito.",
+          "hasImage": true
+        },
+        {
+          "name": "Homelander",
+          "note": "Standless + Compound V = Homelander (10% chance)",
+          "hasImage": true
+        },
+        {
+          "name": "Bear 5",
+          "note": "Bootleg Purple Guy + True Requiem Arrow → 1/5 chance for Bear 5 (otherwise back to normal Bootleg Purple Guy, retry).",
+          "hasImage": true
+        },
+        {
+          "name": "Thragg",
+          "note": "Homelander + Compound V1 → Homelander V1, then DIO Skull on Homelander V1 → Thragg.",
+          "hasImage": true
+        },
+        {
+          "name": "V1 Homelander",
+          "note": "Homelander + Compound V1 gives Homelander V1.",
+          "hasImage": true
+        },
+        {
+          "name": "Void King",
+          "note": "Crazy Diamond + Pot Diary → Skeleton → Hell Arrow (1/30) → Beepboop → Void Crown gives Void King.",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum Requiem",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum, + PDD gives Jotaro Star Platinum, then + Requiem Arrow (1/50) gives Star Platinum Requiem.",
+          "hasImage": true
+        },
+        {
+          "name": "Giyu",
+          "hasImage": true
+        },
+        {
+          "name": "Dark Ronald",
+          "note": "The World OVA + Vampire Mask + Camera + Pot Platinum Diary gives Ronald, then Ronald + Black Guardia Helmet has a 35% chance to become Dark Ronald.",
+          "hasImage": true
+        },
+        {
+          "name": "Tanjiro",
+          "hasImage": true
+        },
+        {
+          "name": "Inosuke",
+          "hasImage": true
+        },
+        {
+          "name": "Alucard",
+          "note": "Standless + Vampire Mask gives Vampire, then + Alucard Gun gives Alucard.",
+          "hasImage": true
+        },
+        {
+          "name": "Soldier Boy",
+          "note": "Standless + Compound V1: 90% chance nothing happens, 10% chance for Soldier Boy, 10% chance for Starlight (Annie January), 1% chance for shiny Captain America.",
+          "hasImage": true
+        },
+        {
+          "name": "Wega World",
+          "note": "The World + Star gives Luigi (New), then + Wega Orb gives Wega World.",
+          "hasImage": true
+        },
+        {
+          "name": "Coyote Starrk",
+          "note": "Emperor + Starrk Gun gives Coyote Starrk.",
+          "hasImage": true
+        },
+        {
+          "name": "Ken Kaneki",
+          "note": "Kars + Compound V → Baoh, then Guardian on Baoh → Ken Kaneki.",
+          "hasImage": true
+        },
+        {
+          "name": "Aizen",
+          "note": "Standless + Samurai Diary gives Samurai, then + Hogyoku gives Aizen.",
+          "hasImage": true
+        },
+        {
+          "name": "Late Registration Bear",
+          "note": "Billy Butcher Crowbar on Chara: 1/10 chance for Late Registration Bear.",
+          "hasImage": true
+        },
+        {
+          "name": "Atrocity",
+          "note": "The World + Star gives Luigi The World, then + Black Guardia gives Atrocity.",
+          "hasImage": true
+        },
+        {
+          "name": "Chara",
+          "note": "King Crimson + Bone gives Sans Crimson, then + Black Guardia gives Chara.",
+          "hasImage": true
+        },
+        {
+          "name": "Glitch Gurdian",
+          "note": "Standless + 2x Vamp Mask gives Kars (1/5), Kars + Aja Mask gives Ultimate Life Form, then ULF + Black Guardia gives Glitch Guardian.",
+          "hasImage": true
+        },
+        {
+          "name": "Mono Glitch Gurdian",
+          "note": "Standless + 2x Vamp Mask gives Kars (1/5), Kars + Aja Mask gives Ultimate Life Form, ULF + Black Guardia gives Glitch Guardian, then Glitch Guardian + Mono Orb gives Mono Glitch Guardian.",
+          "hasImage": true
+        },
+        {
+          "name": "Beta Glitch Gurdian",
+          "note": "Star Platinum + Beta Arrow gives Beta Star Platinum, then that + Diary + Beta SP Over Heaven + Black Guardia gives Beta Glitch Guardian.",
+          "hasImage": true
+        },
+        {
+          "name": "Beta Mono Glitch Gurdian",
+          "note": "Star Platinum + Beta Arrow gives Beta Star Platinum, that + Diary + Beta SP Over Heaven + Black Guardia gives Beta Glitch Guardian, then + Mono gives Beta Mono Glitch Guardian.",
+          "hasImage": true
+        },
+        {
+          "name": "Karma",
+          "note": "Standless + Vampire Mask → Vampire, + Pot Diary → Sonic, + Hell Arrow → Sonic Exe, + Glitch Guardian → Karma.",
+          "hasImage": true
+        },
+        {
+          "name": "Surge",
+          "note": "Complete 20 Homelander raids, then talk to the Homelander NPC → Billy Butcher (10% chance for shiny Billy Butcher, Dexter), then Supercharged Baton on Billy Butcher → Surge.",
+          "hasImage": true
+        },
+        {
+          "name": "Shiny Flushed Jotaro Star Platinum Alternate Universe",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum, + PDD gives Jotaro Star Platinum, then + Flushed Orb has a 10% chance for this shiny (90% gives the normal version instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Slender King Crimson",
+          "note": "King Crimson + Mono gives Mono King Crimson, then + Hell Arrow (1/10) gives Slender King Crimson.",
+          "hasImage": true
+        },
+        {
+          "name": "Beepboop",
+          "note": "Crazy Diamond + Pot Diary gives Skeleton, then + Hell Arrow (1/30) gives Beepboop.",
+          "hasImage": true
+        }
+      ]
+    },
+    {
+      "tier": "A",
+      "items": [
+        {
+          "name": "Flushed Jotaro Star Platinum Alternate Universe",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum, + PDD gives Jotaro Star Platinum, then + Flushed Orb has a 90% chance for this normal version (10% gives the shiny instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Sinister Samuel",
+          "note": "King Crimson Alternate Universe + Void Soul gives Sinister Samuel.",
+          "hasImage": true
+        },
+        {
+          "name": "Mono King Crimson",
+          "note": "King Crimson + Mono gives Mono King Crimson.",
+          "hasImage": true
+        },
+        {
+          "name": "Possessed Silver Chariot",
+          "note": "Silver Chariot Ova + Mono Sphere gives Possessed Silver Chariot Ova.",
+          "hasImage": true
+        },
+        {
+          "name": "Bootleg Purple Guy",
+          "note": "Creeper Queen (1% from Arrow, or 1/100 Shiny Arrow on Killer Queen) + Requiem Arrow → 1/3 chance for Bootleg Purple Guy (otherwise Charged Creeper Queen).",
+          "hasImage": true
+        },
+        {
+          "name": "Oreo The World",
+          "note": "The World + Mono Orb gives Oreo The World.",
+          "hasImage": true
+        },
+        {
+          "name": "Ye Bear",
+          "note": "Reimu Fumo on Vergil: 1/10 chance for Ye Bear.",
+          "hasImage": true
+        },
+        {
+          "name": "Zamasu",
+          "note": "Spin + Dragon Ball has a 10% chance to give Zamasu.",
+          "hasImage": true
+        },
+        {
+          "name": "Jotaro Star Platinum",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum, then + PDD gives Jotaro Star Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Mario Over The Universe",
+          "note": "Star Platinum + Star gives Mario (New), then + Pot Diary gives Mario Over The Universe.",
+          "hasImage": true
+        },
+        {
+          "name": "Jotaro Star Platinum Ova",
+          "note": "Star Platinum Ova + Jotaro Hat gives True Star Platinum Ova, then + PDD gives Jotaro Star Platinum Ova.",
+          "hasImage": true
+        },
+        {
+          "name": "Luigi Over The Universe",
+          "note": "The World + Star gives Luigi (New), then + Pot Diary gives Luigi Over The Universe.",
+          "hasImage": true
+        },
+        {
+          "name": "True Manga King Crimson Dub",
+          "note": "Beta King Crimson + Dubbed Requiem Arrow gives True Manga King Crimson Dub.",
+          "hasImage": true
+        },
+        {
+          "name": "Sonic Reverted From Exe",
+          "note": "Standless + Vampire Mask gives Vampire, + Pot Diary gives Sonic, then + Hell Arrow has a 1/10 chance for this (otherwise you get normal Sonic.exe).",
+          "hasImage": true
+        },
+        {
+          "name": "Goku",
+          "note": "Standless + Frog = Hamon + Dragon Ball = Goku",
+          "hasImage": true
+        },
+        {
+          "name": "Vegeta",
+          "note": "Standless + Vampire Mask gives Vampire, then + Dragon Ball gives Vegeta.",
+          "hasImage": true
+        },
+        {
+          "name": "Diavolo King Crimson",
+          "note": "King Crimson + True Requiem Arrow gives King Crimson Requiem, then + Pot Diary gives Diavolo King Crimson.",
+          "hasImage": true
+        },
+        {
+          "name": "Dream Manipulator (Nok'tus)",
+          "note": "Use the item Dream Catcher on anything to get either Dream Manipulator (Nok'tus) or Dream Manipulator (Somnus), 50/50 chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Dream Manipulator (Somnus)",
+          "note": "Use the item Dream Catcher on anything to get either Dream Manipulator (Nok'tus) or Dream Manipulator (Somnus), 50/50 chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Gabriel",
+          "note": "Standless + Holy Light gives Gabriel.",
+          "hasImage": true
+        },
+        {
+          "name": "Minos Prime",
+          "note": "Standless + Prime Soul of Order gives Minos Prime.",
+          "hasImage": true
+        },
+        {
+          "name": "Sisyphus Prime",
+          "note": "Standless + Prime Soul of War gives Sisyphus Prime.",
+          "hasImage": true
+        },
+        {
+          "name": "Atrain",
+          "note": "Standless + Compound V has a 10% chance to give A-Train.",
+          "hasImage": true
+        },
+        {
+          "name": "Starlight",
+          "abbr": "Annie January",
+          "note": "Standless + Original Compound V1 has a 10% chance to give Starlight.",
+          "hasImage": true
+        },
+        {
+          "name": "Ultimate Life Form",
+          "note": "Standless + Vampire Mask gives Vampire, + another Vampire Mask gives Kars (1/5), then + Aja Mask gives Ultimate Life Form.",
+          "hasImage": true
+        },
+        {
+          "name": "Six Power",
+          "note": "Kill the Shanks boss for a sword drop (odds unknown), then talk to Lucci as Standless with the sword to get Six Power.",
+          "hasImage": true
+        },
+        {
+          "name": "Mihawk Dark Blade",
+          "note": "Get Viste’s Sword (~10–15% drop), become Samurai, do Mihawk’s quest, give him the sword to get Mihawk Dark Blade.",
+          "hasImage": true
+        },
+        {
+          "name": "Chronos Sentinel",
+          "note": "Standless + Chronologicus gives Chronos Sentinel.",
+          "hasImage": true
+        },
+        {
+          "name": "Dios The World Equilibrium",
+          "note": "The World + Shiny Arrow (1/100) → The World Ova → Vampire Mask → Dio Crown → Dio Skull gives Dios The World Equilibrium.",
+          "hasImage": true
+        },
+        {
+          "name": "Dios The World Ova",
+          "note": "The World + Shiny Arrow (1/100) → The World Ova → Dio Crown → Dio Skull gives Dios The World Ova.",
+          "hasImage": true
+        },
+        {
+          "name": "Dios The World",
+          "note": "The World + Dio Crown → Dio Skull gives Dios The World.",
+          "hasImage": true
+        },
+        {
+          "name": "Black Platinum",
+          "note": "DIO Diary on Star Platinum has a 4% chance for Black Platinum (otherwise you get a normal Star Platinum Over Heaven).",
+          "hasImage": true
+        },
+        {
+          "name": "Joker From Persona",
+          "note": "Standless + Samurai Diary gives Samurai, then + Mono Orb gives Joker/Persona.",
+          "hasImage": true
+        },
+        {
+          "name": "X Chara",
+          "note": "King Crimson Alternate Universe + Bone gives Sans Crimson Alternate Universe, then + PPD gives X Chara.",
+          "hasImage": true
+        },
+        {
+          "name": "Sonic Exe",
+          "note": "Standless + Vampire Mask gives Vampire, + Pot Diary gives Sonic, then + Hell Arrow has a 9/10 chance for this (1/10 gives Sonic Reverted From Exe instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Shadow Pot Platinum",
+          "note": "Camera on Star Platinum Ova Over Heaven has a 1/6 chance to give Shadow Pot Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Soda Star Platinum Ova",
+          "note": "Jotaro Hat on Star Platinum Ova has a 1/25 chance for this (otherwise you get normal True Star Platinum Ova).",
+          "hasImage": true
+        },
+        {
+          "name": "Soda Star Platinum",
+          "note": "Jotaro Hat on Star Platinum has a 1/25 chance for this (otherwise you get normal True Star Platinum).",
+          "hasImage": true
+        },
+        {
+          "name": "Baoh",
+          "note": "Standless + Vampire Mask → Vampire, + Vampire Mask (1/5 chance) → Kars, + Compound V → Baoh.",
+          "hasImage": true
+        }
+      ]
+    },
+    {
+      "tier": "B",
+      "items": [
+        {
+          "name": "Tusk Act 4",
+          "note": "Standless + Holy Corpse: 1/10 Tusk Act 1 (9/10 gives TWAU instead). Tusk Act 1 + Holy Corpse → Tusk Act 2, + Holy Corpse Part → Tusk Act 3, + Holy Corpse Part → Tusk Act 4.",
+          "hasImage": true
+        },
+        {
+          "name": "True Star Platinum",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Ronald",
+          "note": "The World OVA + Vampire Mask + Camera + Pot Platinum Diary gives Ronald.",
+          "hasImage": true
+        },
+        {
+          "name": "Oni",
+          "note": "Give Big Hoss 50k for Freshie, then get 20 kills + a Pot Diary and talk to Big Hoss to become Oni.",
+          "hasImage": true
+        },
+        {
+          "name": "Pot Platinum",
+          "note": "Star Platinum + DIO Diary gives Star Platinum Over Heaven, then + Pot Diary gives Pot Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Golden Pan",
+          "note": "Shiny Sword + Pot has roughly a 1/10 chance to give Golden Pan (otherwise gives Frying Pan).",
+          "hasImage": true
+        },
+        {
+          "name": "Gale Knight",
+          "note": "Buy a Sword from the shop, + Pot gives Pan, then + Ornstein’s Spear gives Gale Knight.",
+          "hasImage": true
+        },
+        {
+          "name": "Skeleton",
+          "note": "Crazy Diamond + Pot Diary gives Skeleton.",
+          "hasImage": true
+        },
+        {
+          "name": "Luigi World",
+          "abbr": "New",
+          "note": "The World + Star gives Luigi (New).",
+          "hasImage": true
+        },
+        {
+          "name": "Mario Platinum",
+          "abbr": "New",
+          "note": "Star Platinum + Star gives Mario (New).",
+          "hasImage": true
+        },
+        {
+          "name": "Sonic",
+          "note": "Standless + Vampire Mask gives Vampire, then + Pot Diary gives Sonic.",
+          "hasImage": true
+        },
+        {
+          "name": "Billy Butcher",
+          "note": "Complete 20 Homelander raids, then talk to the Homelander NPC → Billy Butcher (10% chance for shiny Billy Butcher, Dexter).",
+          "hasImage": true
+        },
+        {
+          "name": "Tusk Act 3",
+          "note": "Standless + Holy Corpse: 1/10 Tusk Act 1 (9/10 gives TWAU instead). Tusk Act 1 + Holy Corpse → Tusk Act 2, + Holy Corpse Part → Tusk Act 3.",
+          "hasImage": true
+        },
+        {
+          "name": "Kenshiro",
+          "note": "Karate + Pot Diary gives Kenshiro.",
+          "hasImage": true
+        },
+        {
+          "name": "One More Time",
+          "note": "Standless + Pot Diary gives One More Time.",
+          "hasImage": true
+        },
+        {
+          "name": "Flushed King Crimson Alternate Universe",
+          "note": "King Crimson Alternate Universe + Ornstein's Spear gives this, odds vary roughly 1/4-1/18.",
+          "hasImage": true
+        },
+        {
+          "name": "Faceless",
+          "note": "Have Oni talk to Perco behind the warehouse, get 20 public kills, then talk to him again to get Faceless.",
+          "hasImage": true
+        },
+        {
+          "name": "Jetstream Sam",
+          "hasImage": true
+        },
+        {
+          "name": "Dante",
+          "note": "Wait for a Sparda NPC to spawn for a chance at Rebellion or Yamato, then Standless + Rebellion gives Dante.",
+          "hasImage": true
+        },
+        {
+          "name": "Wonder of You",
+          "note": "Vampire + Vampire Mask gives Pillar Man, then + True Requiem Arrow gives Wonder of You.",
+          "hasImage": true
+        },
+        {
+          "name": "Eva The World",
+          "note": "The World + DIO Diary gives The World Over Heaven, then + Ornstein’s Spear gives Eva The World.",
+          "hasImage": true
+        },
+        {
+          "name": "Eva C-Moon",
+          "note": "Whitesnake + DIO Diary has a 1/10 chance for this (otherwise you get normal C-Moon).",
+          "hasImage": true
+        },
+        {
+          "name": "Kars",
+          "note": "Standless + Vampire Mask gives Vampire, then + another Vampire Mask has a 1/5 chance to give Kars.",
+          "hasImage": true
+        },
+        {
+          "name": "Herobrine",
+          "note": "Creeper Queen (1% or 1/100 shiny) + DIO Diary gives Steve, then + Hell Arrow gives Herobrine.",
+          "hasImage": true
+        },
+        {
+          "name": "Steve",
+          "note": "Creeper Queen (1% or 1/100 shiny) + DIO Diary gives Steve.",
+          "hasImage": true
+        },
+        {
+          "name": "The World Ova Over Heaven",
+          "note": "The World Ova + DIO Diary gives The World Ova Over Heaven.",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum Ova Over Heaven",
+          "note": "Star Platinum Ova + DIO Diary gives Star Platinum Ova Over Heaven.",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum Over Heaven",
+          "note": "DIO Diary on Star Platinum gives this (4% chance for the shiny Black Platinum instead).",
+          "hasImage": true
+        },
+        {
+          "name": "The World Over Heaven",
+          "note": "The World + DIO Diary gives The World Over Heaven.",
+          "hasImage": true
+        }
+      ]
+    },
+    {
+      "tier": "C",
+      "items": [
+        {
+          "name": "Tusk Act 1",
+          "note": "Standless + Holy Corpse has a 1/10 chance to give Tusk Act 1 (9/10 gives The World Alternate Universe instead).",
+          "hasImage": true
+        },
+        {
+          "name": "True Star Platinum OVA",
+          "note": "Star Platinum Ova + Jotaro Hat gives True Star Platinum Ova.",
+          "hasImage": true
+        },
+        {
+          "name": "Shadow The World (New)",
+          "note": "The World + Vampire Mask gives Vampiric The World, then + Camera gives Shadow The World (New).",
+          "hasImage": true
+        },
+        {
+          "name": "True The World",
+          "note": "The World + DIO Crown gives True The World.",
+          "hasImage": true
+        },
+        {
+          "name": "Bootleg Pot Platinum",
+          "note": "Standless — talk to the guy in red with a pot to get Bootleg Pot Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Vampire The World",
+          "note": "The World + Vampire Mask gives Vampire The World.",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum Heritage For The Future",
+          "note": "Star Platinum Ova + Camera gives Star Platinum Heritage For The Future.",
+          "hasImage": true
+        },
+        {
+          "name": "Volcanic King Crimson Requiem",
+          "note": "Volcanic King Crimson + True Requiem Arrow gives Volcanic King Crimson Requiem.",
+          "hasImage": true
+        },
+        {
+          "name": "Frying Pan",
+          "note": "Shiny Sword + Pot gives Frying Pan (Golden Pan is the rarer outcome).",
+          "hasImage": true
+        },
+        {
+          "name": "Silver Chariot Requiem",
+          "note": "Silver Chariot + True Requiem Arrow gives Silver Chariot Requiem.",
+          "hasImage": true
+        },
+        {
+          "name": "Pika Pika No Mi",
+          "note": "Standless + Pika Fruit gives Pika Pika No Mi.",
+          "hasImage": true
+        },
+        {
+          "name": "C-Moon",
+          "note": "Whitesnake + DIO Diary has a 90% chance to give C-Moon (10% gives the shiny Eva C-Moon instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Made In Heaven",
+          "note": "C-Moon + DIO Diary gives Made In Heaven.",
+          "hasImage": true
+        },
+        {
+          "name": "King Crimson Requiem",
+          "note": "King Crimson + True Requiem Arrow gives King Crimson Requiem.",
+          "hasImage": true
+        },
+        {
+          "name": "Edgy Star Platinum",
+          "note": "Star Platinum + Hell Arrow gives Edgy Star Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "True The World Greatest High",
+          "note": "The World Greatest High + DIO Crown gives True The World Greatest High.",
+          "hasImage": true
+        },
+        {
+          "name": "The World Greatest High",
+          "note": "The World + Shiny Arrow (1/100) gives The World Ova, then + Vampire Mask gives The World Greatest High.",
+          "hasImage": true
+        },
+        {
+          "name": "The World Heritage For The Future",
+          "note": "The World Ova + Camera gives The World Heritage For The Future.",
+          "hasImage": true
+        },
+        {
+          "name": "Golden Wind",
+          "note": "Golden Experience + Requiem Arrow has a 1/10 chance to give Golden Wind (9/10 gives Golden Experience Requiem instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Killer Queen Bite The Dust",
+          "note": "Killer Queen + Requiem Arrow gives Killer Queen Bite The Dust.",
+          "hasImage": true
+        },
+        {
+          "name": "Boxing",
+          "note": "Talk to Uncle Bob for 200k Lire.",
+          "hasImage": true
+        },
+        {
+          "name": "Sans Platinum",
+          "note": "Star Platinum + Bone gives Sans Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Toxic Golden Experience Requiem",
+          "note": "Toxic Golden Experience + Requiem Arrow gives Toxic Golden Experience Requiem.",
+          "hasImage": true
+        },
+        {
+          "name": "Volcanic Golden Experience Requiem",
+          "note": "Volcanic Golden Experience + Requiem Arrow gives Volcanic Golden Experience Requiem.",
+          "hasImage": true
+        },
+        {
+          "name": "Volcanic Golden Experience",
+          "note": "Golden Experience + Volcanic Rock gives Volcanic Golden Experience.",
+          "hasImage": true
+        },
+        {
+          "name": "Charged Creeper Queen",
+          "note": "Creeper Queen (1% from Arrow, or 1/100 Shiny Arrow on Killer Queen) + Requiem Arrow → 1/3 chance for Bootleg Purple Guy, otherwise Charged Creeper Queen.",
+          "hasImage": true
+        },
+        {
+          "name": "Golden Experience Requiem",
+          "note": "Golden Experience + Requiem Arrow has a 9/10 chance to give this (1/10 gives the rarer Golden Wind instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Wamuu",
+          "note": "Vampire + Vampire Mask has a 1/5 chance to give Wamuu.",
+          "hasImage": true
+        },
+        {
+          "name": "Pillarman",
+          "note": "Vampire + Vampire Mask gives Pillar Man.",
+          "hasImage": true
+        },
+        {
+          "name": "Spin",
+          "note": "Get Spin from Gyro for 50k Lire.",
+          "hasImage": true
+        },
+        {
+          "name": "Karate",
+          "note": "Talk to the king (behind the warehouse near the cave) with the Lost Teachings of Juni.",
+          "hasImage": true
+        },
+        {
+          "name": "Neo The World Alternate Universe",
+          "note": "Standless + Holy Corpse has a chance to give Neo The World Alternate Universe.",
+          "hasImage": true
+        },
+        {
+          "name": "Freshie",
+          "note": "Give Big Hoss 50k Lire to get Freshie.",
+          "hasImage": true
+        },
+        {
+          "name": "Shadow Hierophant Green",
+          "note": "Hierophant Green + Camera gives Shadow Hierophant Green.",
+          "hasImage": true
+        },
+        {
+          "name": "Joseph Hamon",
+          "note": "Standless + Frog → Hamon, + Camera → Joseph Hamon.",
+          "hasImage": true
+        },
+        {
+          "name": "Hermit Purple",
+          "note": "Standless + Frog → Hamon, + Camera → Joseph Hamon, + Camera → Hermit Purple.",
+          "hasImage": true
+        },
+        {
+          "name": "Sans King Crimson Alternate Universe",
+          "note": "King Crimson Alternate Universe + Bone gives Sans King Crimson Alternate Universe.",
+          "hasImage": true
+        },
+        {
+          "name": "Sans King Crimson",
+          "note": "King Crimson + Bone gives Sans King Crimson.",
+          "hasImage": true
+        },
+        {
+          "name": "Ender King Crimson",
+          "note": "King Crimson + Ender Pearl gives Ender King Crimson.",
+          "hasImage": true
+        },
+        {
+          "name": "Ender King Crimson Alternate Universe",
+          "note": "King Crimson Alternate Universe + Ender Pearl gives Ender King Crimson Alternate Universe.",
+          "hasImage": true
+        },
+        {
+          "name": "Toxic Golden Experience",
+          "note": "Golden Experience + Toxic Chemicals gives Toxic Golden Experience.",
+          "hasImage": true
+        },
+        {
+          "name": "Shiny Sword",
+          "note": "Buyable in the shop near the fountain for 100k Lire.",
+          "hasImage": true
+        },
+        {
+          "name": "Samurai",
+          "note": "Standless + Samurai Diary gives Samurai.",
+          "hasImage": true
+        },
+        {
+          "name": "Noob Act 3",
+          "note": "Noob Act 2 + Holy Corpse gives Noob Act 3.",
+          "hasImage": true
+        },
+        {
+          "name": "Noob Act 2",
+          "note": "Noob Act 1 + Holy Corpse gives Noob Act 2.",
+          "hasImage": true
+        },
+        {
+          "name": "The World Alternate Universe",
+          "note": "Standless + Holy Corpse has a 9/10 chance to give The World Alternate Universe (1/10 gives Tusk Act 1 instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Vampire",
+          "note": "Standless + Vampire Mask gives Vampire.",
+          "hasImage": true
+        },
+        {
+          "name": "Anubis Khan",
+          "note": "Anubis + Camera gives Anubis Khan.",
+          "hasImage": true
+        },
+        {
+          "name": "Hamon",
+          "note": "Standless + Frog gives Hamon.",
+          "hasImage": true
+        },
+        {
+          "name": "Sword",
+          "note": "Buyable in the shop near the fountain for 13,500 Lire.",
+          "hasImage": true
+        }
+      ]
+    },
+    {
+      "tier": "ARROW",
+      "items": [
+        {
+          "name": "Creeper Queen",
+          "note": "Stand Arrow: 1% chance (or 1/100 using a Shiny Arrow on Killer Queen).",
+          "hasImage": true
+        },
+        {
+          "name": "Cosmic White Snake Alternate Universe",
+          "note": "1/20 chance instead of White Snake AU from a Stand Arrow (separate from the 1% shiny pool); also 1/200 via Shiny Arrow on White Snake AU.",
+          "hasImage": true
+        },
+        {
+          "name": "White Snake Alternate Universe",
+          "note": "Stand Arrow: 2% chance (1/20 of these give Cosmic White Snake AU instead).",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum",
+          "note": "Stand Arrow: 2% chance. Also obtainable if a White Snake AU / Cosmic White Snake AU discs you while Standless.",
+          "hasImage": true
+        },
+        {
+          "name": "King Crimson",
+          "note": "Stand Arrow: 7% chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Weather Report",
+          "note": "7% chance from Arrow / obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "King Crimson Alternate Universe",
+          "note": "Stand Arrow: 2% chance. Also obtainable if a White Snake AU / Cosmic White Snake AU discs you while Standless.",
+          "hasImage": true
+        },
+        {
+          "name": "The World",
+          "note": "Stand Arrow: 2% chance. Also obtainable if a White Snake AU / Cosmic White Snake AU discs you while Standless.",
+          "hasImage": true
+        },
+        {
+          "name": "White Snake",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "The World Ova",
+          "note": "Stand Arrow: 1% chance, or Shiny Arrow (1/100) on The World.",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum Ova",
+          "note": "Stand Arrow: 1% chance, or Shiny Arrow (1/100) on Star Platinum.",
+          "hasImage": true
+        },
+        {
+          "name": "Silver Chariot Ova",
+          "note": "Stand Arrow: 1% chance, or Shiny Arrow (1/100) on Silver Chariot.",
+          "hasImage": true
+        },
+        {
+          "name": "Reference Spirit",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Volcanic King Crimson",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Soft And Wet",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Star Platinum The World",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "D4c",
+          "note": "Obtainable from a Stand Arrow. Also obtainable if a White Snake AU / Cosmic White Snake AU discs you while Standless.",
+          "hasImage": true
+        },
+        {
+          "name": "Silver Chariot",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Cream",
+          "note": "Standless + Vampire Mask gives Vampire, then + Arrow gives Cream.",
+          "hasImage": true
+        },
+        {
+          "name": "Stone Free",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Golden Experience",
+          "note": "Stand Arrow: 7% chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Purple Haze",
+          "note": "Stand Arrow: 4% chance.",
+          "hasImage": true
+        },
+        {
+          "name": "The Hand",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Sticky Finger",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Killer Queen",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Anubis",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Planet Waves",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Emperor",
+          "note": "Stand Arrow: 2% chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Noob Act 1",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Magician Red",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        },
+        {
+          "name": "Crazy Diamond",
+          "note": "Obtainable from a Stand Arrow.",
+          "hasImage": true
+        }
+      ]
+    }
+  ]
+}
