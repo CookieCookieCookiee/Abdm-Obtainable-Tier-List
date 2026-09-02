@@ -35,6 +35,11 @@
           "hasImage": true
         },
         {
+          "name": "Shadow Bonnie",
+          "note": "Creeper Queen (1% from Arrow, or 1/100 Shiny Arrow on Killer Queen) + Requiem Arrow → 1/3 chance for Bootleg Purple Guy (otherwise Charged Creeper Queen) + True Requiem Arrow → 1/5 chance for Bear 5 (otherwise back to normal Bootleg Purple Guy, retry) → Shadow Camera: 6.6% Shadow Bonnie, 93.4% Shadow Freddy instead.",
+          "hasImage": true
+        },
+        {
           "name": "Goku",
           "abbr": "MAGETTE",
           "note": "Obtained by using Hamon + Dragon Ball on Goku, then Goku + Dragon Ball again with a 1/143 chance.",
@@ -62,11 +67,6 @@
           "name": "Homelander",
           "abbr": "Onmi-Man Shiny",
           "note": "Standless + Compound V gives Homelander (10%), then Compound V1 on Homelander has a 30% chance to give shiny Omni-Man instead of Homelander V1.",
-          "hasImage": true
-        },
-        {
-          "name": "Shadow Bonnie",
-          "note": "Creeper Queen (1% from Arrow, or 1/100 Shiny Arrow on Killer Queen) + Requiem Arrow → 1/3 chance for Bootleg Purple Guy (otherwise Charged Creeper Queen) + True Requiem Arrow → 1/5 chance for Bear 5 (otherwise back to normal Bootleg Purple Guy, retry) → Shadow Camera: 6.6% Shadow Bonnie, 93.4% Shadow Freddy instead.",
           "hasImage": true
         },
         {
