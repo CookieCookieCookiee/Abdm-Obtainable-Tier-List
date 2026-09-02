@@ -1,7 +1,7 @@
 {
   "tiers": [
     {
-      "tier": "UNOB",
+      "tier": "X",
       "items": [
         {
           "name": "Gogeta",
@@ -9,41 +9,6 @@
           "note": "Obtainable through the fusion dance item with another player (1%)",
           "hasImage": true
         },
-        {
-          "name": "Gogeta",
-          "abbr": "Super",
-          "note": "Obtainable through the fusion dance item with another player (99%)",
-          "hasImage": true
-        },
-        {
-          "name": "Soldier Boy",
-          "abbr": "Captain American Shiny",
-          "note": "Obtained by using Original Compound-VOne on Standless with a 1% chance.",
-          "hasImage": true
-        },
-        {
-          "name": "Homelander",
-          "abbr": "Onmi-Man Shiny",
-          "note": "Standless + Compound V gives Homelander (10%), then Compound V1 on Homelander has a 30% chance to give shiny Omni-Man instead of Homelander V1.",
-          "hasImage": true
-        },
-        {
-          "name": "Billy Butcher",
-          "abbr": "Dexter Shiny",
-          "note": "Complete 20 Homelander raids, then talk to the Homelander NPC → Billy Butcher (10% chance for shiny Billy Butcher, Dexter).",
-          "hasImage": true
-        },
-        {
-          "name": "Uber Oni",
-          "abbr": "Public",
-          "note": "Big Hoss (50k) → Freshie. 20 kills + Pot Diary, talk to Big Hoss → Oni. 40 kills + Dio boss kill, talk to Big Hoss → Uber Oni challenge (no death, retry OK) → Sunaikinti’s Blessed → use on Oni.",
-          "hasImage": true
-        }
-      ]
-    },
-    {
-      "tier": "X",
-      "items": [
         {
           "name": "Sukuna",
           "note": "Cursed Finger on Standless: 70% Hakari, 20% Gojo, 15% Yuta, 10% Sukuna.",
@@ -73,6 +38,30 @@
           "name": "Goku",
           "abbr": "MAGETTE",
           "note": "Obtained by using Hamon + Dragon Ball on Goku, then Goku + Dragon Ball again with a 1/143 chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Billy Butcher",
+          "abbr": "Dexter Shiny",
+          "note": "Complete 20 Homelander raids, then talk to the Homelander NPC → Billy Butcher (10% chance for shiny Billy Butcher, Dexter).",
+          "hasImage": true
+        },
+        {
+          "name": "Gogeta",
+          "abbr": "Super",
+          "note": "Obtainable through the fusion dance item with another player (99%)",
+          "hasImage": true
+        },
+        {
+          "name": "Soldier Boy",
+          "abbr": "Captain American Shiny",
+          "note": "Obtained by using Original Compound-VOne on Standless with a 1% chance.",
+          "hasImage": true
+        },
+        {
+          "name": "Homelander",
+          "abbr": "Onmi-Man Shiny",
+          "note": "Standless + Compound V gives Homelander (10%), then Compound V1 on Homelander has a 30% chance to give shiny Omni-Man instead of Homelander V1.",
           "hasImage": true
         },
         {
@@ -173,6 +162,12 @@
         {
           "name": "Alucard",
           "note": "Standless + Vampire Mask gives Vampire, then + Alucard Gun gives Alucard.",
+          "hasImage": true
+        },
+        {
+          "name": "Uber Oni",
+          "abbr": "Public",
+          "note": "Big Hoss (50k) → Freshie. 20 kills + Pot Diary, talk to Big Hoss → Oni. 40 kills + Dio boss kill, talk to Big Hoss → Uber Oni challenge (no death, retry OK) → Sunaikinti’s Blessed → use on Oni.",
           "hasImage": true
         },
         {
