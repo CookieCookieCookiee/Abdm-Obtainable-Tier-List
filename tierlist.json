@@ -123,6 +123,11 @@
           "hasImage": true
         },
         {
+          "name": "Star Platinum Requiem",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum, + PDD gives Jotaro Star Platinum, then + Requiem Arrow (1/50) gives Star Platinum Requiem.",
+          "hasImage": true
+        },
+        {
           "name": "Thragg",
           "note": "Homelander + Compound V1 → Homelander V1, then DIO Skull on Homelander V1 → Thragg.",
           "hasImage": true
@@ -135,11 +140,6 @@
         {
           "name": "Void King",
           "note": "Crazy Diamond + Pot Diary → Skeleton → Hell Arrow (1/30) → Beepboop → Void Crown gives Void King.",
-          "hasImage": true
-        },
-        {
-          "name": "Star Platinum Requiem",
-          "note": "Star Platinum + Jotaro Hat gives True Star Platinum, + PDD gives Jotaro Star Platinum, then + Requiem Arrow (1/50) gives Star Platinum Requiem.",
           "hasImage": true
         },
         {
@@ -271,6 +271,11 @@
           "hasImage": true
         },
         {
+          "name": "Joker From Persona",
+          "note": "Standless + Samurai Diary gives Samurai, then + Mono Orb gives Joker/Persona.",
+          "hasImage": true
+        },
+        {
           "name": "Mono King Crimson",
           "note": "King Crimson + Mono gives Mono King Crimson.",
           "hasImage": true
@@ -293,6 +298,16 @@
         {
           "name": "Ye Bear",
           "note": "Reimu Fumo on Vergil: 1/10 chance for Ye Bear.",
+          "hasImage": true
+        },
+        {
+          "name": "Sonic Reverted From Exe",
+          "note": "Standless + Vampire Mask gives Vampire, + Pot Diary gives Sonic, then + Hell Arrow has a 1/10 chance for this (otherwise you get normal Sonic.exe).",
+          "hasImage": true
+        },
+        {
+          "name": "Soda Star Platinum Ova",
+          "note": "Jotaro Hat on Star Platinum Ova has a 1/25 chance for this (otherwise you get normal True Star Platinum Ova).",
           "hasImage": true
         },
         {
@@ -323,21 +338,6 @@
         {
           "name": "True Manga King Crimson Dub",
           "note": "Beta King Crimson + Dubbed Requiem Arrow gives True Manga King Crimson Dub.",
-          "hasImage": true
-        },
-        {
-          "name": "Sonic Reverted From Exe",
-          "note": "Standless + Vampire Mask gives Vampire, + Pot Diary gives Sonic, then + Hell Arrow has a 1/10 chance for this (otherwise you get normal Sonic.exe).",
-          "hasImage": true
-        },
-        {
-          "name": "Goku",
-          "note": "Standless + Frog = Hamon + Dragon Ball = Goku",
-          "hasImage": true
-        },
-        {
-          "name": "Vegeta",
-          "note": "Standless + Vampire Mask gives Vampire, then + Dragon Ball gives Vegeta.",
           "hasImage": true
         },
         {
@@ -422,11 +422,6 @@
           "hasImage": true
         },
         {
-          "name": "Joker From Persona",
-          "note": "Standless + Samurai Diary gives Samurai, then + Mono Orb gives Joker/Persona.",
-          "hasImage": true
-        },
-        {
           "name": "X Chara",
           "note": "King Crimson Alternate Universe + Bone gives Sans Crimson Alternate Universe, then + PPD gives X Chara.",
           "hasImage": true
@@ -442,13 +437,23 @@
           "hasImage": true
         },
         {
-          "name": "Soda Star Platinum Ova",
-          "note": "Jotaro Hat on Star Platinum Ova has a 1/25 chance for this (otherwise you get normal True Star Platinum Ova).",
+          "name": "Goku",
+          "note": "Standless + Frog = Hamon + Dragon Ball = Goku",
+          "hasImage": true
+        },
+        {
+          "name": "Vegeta",
+          "note": "Standless + Vampire Mask gives Vampire, then + Dragon Ball gives Vegeta.",
+          "hasImage": true
+        },
+        {
+          "name": "Eva C-Moon",
+          "note": "Whitesnake + DIO Diary has a 1/10 chance for this (otherwise you get normal C-Moon).",
           "hasImage": true
         },
         {
           "name": "Soda Star Platinum",
-          "note": "Jotaro Hat on Star Platinum has a 1/25 chance for this (otherwise you get normal True Star Platinum).",
+          "note": "Jotaro Hat on Star Platinum has a 1/10 chance for this (otherwise you get normal True Star Platinum).",
           "hasImage": true
         },
         {
@@ -464,11 +469,6 @@
         {
           "name": "Tusk Act 4",
           "note": "Standless + Holy Corpse: 1/10 Tusk Act 1 (9/10 gives TWAU instead). Tusk Act 1 + Holy Corpse → Tusk Act 2, + Holy Corpse Part → Tusk Act 3, + Holy Corpse Part → Tusk Act 4.",
-          "hasImage": true
-        },
-        {
-          "name": "True Star Platinum",
-          "note": "Star Platinum + Jotaro Hat gives True Star Platinum.",
           "hasImage": true
         },
         {
@@ -558,6 +558,11 @@
           "hasImage": true
         },
         {
+          "name": "Vergil",
+          "note": "Wait for a Sparda NPC to spawn for a chance at Rebellion or Yamato, Standless + Yamato = Vergil (currently bugged).",
+          "hasImage": true
+        },
+        {
           "name": "Wonder of You",
           "note": "Vampire + Vampire Mask gives Pillar Man, then + True Requiem Arrow gives Wonder of You.",
           "hasImage": true
@@ -565,11 +570,6 @@
         {
           "name": "Eva The World",
           "note": "The World + DIO Diary gives The World Over Heaven, then + Ornstein’s Spear gives Eva The World.",
-          "hasImage": true
-        },
-        {
-          "name": "Eva C-Moon",
-          "note": "Whitesnake + DIO Diary has a 1/10 chance for this (otherwise you get normal C-Moon).",
           "hasImage": true
         },
         {
@@ -750,6 +750,11 @@
         {
           "name": "Wamuu",
           "note": "Vampire + Vampire Mask has a 1/5 chance to give Wamuu.",
+          "hasImage": true
+        },
+        {
+          "name": "True Star Platinum",
+          "note": "Star Platinum + Jotaro Hat gives True Star Platinum.",
           "hasImage": true
         },
         {
